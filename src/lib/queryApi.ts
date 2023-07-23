@@ -1,7 +1,6 @@
 import openai from '@/lib/chatgpt'
 
 const query = async (prompt: string, chatId: string, model: string) => {
-    console.log(model)
     const res = await openai
         .createCompletion({
             model,

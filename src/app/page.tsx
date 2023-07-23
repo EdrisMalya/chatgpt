@@ -22,14 +22,14 @@ const Page = () => {
                     </div>
                     <div className={'space-y-2'}>
                         <p className={'text-info'}>
-                            "Explain quantum computing in simple terms"
+                            Explain quantum computing in simple terms
                         </p>
                         <p className={'text-info'}>
-                            "Got any creative ideas for a 10 year old’s
-                            birthday?"
+                            Got any creative ideas for a 10 year old’s
+                            birthday?
                         </p>
                         <p className={'text-info'}>
-                            "How do I make an HTTP request in Javascript?"
+                            How do I make an HTTP request in Javascript?
                         </p>
                     </div>
                 </div>
